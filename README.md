@@ -36,11 +36,24 @@ sudo apt-get update && sudo apt-get install -y ngspice
 
 ## Tutorials Steps
 
-1. Follow the steps given in the [this](<http://ngspice.sourceforge.net/ngspice-tutorial.html>) link in order to learn spice simulation
+1. Learn how to use Github, bug reporting and collaboration in the github
 
-2.  #### Using Eeschema for spice simulation 
+2. Make a git public repository and follow these steps
+
+   1. Fill up the [this](https://forms.gle/JpP41yySP91QphrL7) form 
+   2. Download Typora and learn Markdown
+   3. Make a README.md file and document all the steps used for simulations
+   4. Write issues that you faced in the README.md documentation
+   5. Commit you work after every exercise and maintain a directory for every simulation section 
+   6. In case of doubts raise issues/bugs in this repository
+
+3. Follow the steps given in the [this](<http://ngspice.sourceforge.net/ngspice-tutorial.html>) link in order to learn spice simulation
+
+4.  #### Using Eeschema for spice simulation 
 
    Follow the steps given in [this](http://ngspice.sourceforge.net/ngspice-eeschema.html) link for simulation using Eeshema
+
+5. Obtain a copy Microelectronics by Neamen
 
 ### Advance tutorial 
 
