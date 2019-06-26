@@ -65,17 +65,64 @@ http://docs.kicad-pcb.org/5.1.2/en/getting_started_in_kicad/getting_started_in_k
 
 # Construction of the circuits for simulations
 
+This part will consists of part theory, part simulation and if possible part practical. In this section we will be following Microelectronics by Neamen. 
+
+First we will learning the theory about the electronics component. This shall be completed by going through the first four chapters of the book.
+When you are through those chapters complete the following tasks.
+
+## Clipping and Clamping
+
+!-- Clipping circuit diagram 
+
+!-- Code for simulation in spice 
+
+!-- Clamping circuit diagram 
+
+!-- Code for spice simulation 
+
+## Simple Amplifiers and setting up the dc point of the circuit 
+
+Do the following exercise and examples from the book
+
 ## Simulation : Integrator Cirucit 
 
-## Simulation : DIfferentiator Circuit 
+!-- Circuit Diagram
+
+!-- Desired output from the simulation
+
+## Simulation : DIfferentiator Circuit
+
+!-- Circuit Diagram 
+
+!-- Desire Output  
 
 ## Practical : Sqare wave generation cirucit with variable frequency
 
+!-- 555 Timer circuit
+
+!-- Taking output using arduino
+
 ## Practical : Integrator and Differentiator Circuit
+
+!-- Generation of triangular waves block diagram
+
+!-- Wave transformation
 
 ## Simulation : Joule Theif Circuit 
 
+!-- Circuit diagram 
+
+!-- Theory 
+
+!-- Simulation hints 
+
+
 ## Practical : Joule Theif Circuit 
+
+!-- Impulsive increase in the voltage of the circuit --Theory
+
+!-- Testing by generation of small sparks using the joule theif circuit
 
 # Practical Project : Making a frequency generator till 1Mhz for simulation of the circuit
 
+!-- The link for making the frequency generator for the testing in room using STM
